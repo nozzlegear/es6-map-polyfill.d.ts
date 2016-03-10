@@ -1,0 +1,10 @@
+{
+  "name": "es6-map-polyfill",
+  "main": "es6-map-polyfill.d.ts",
+  "author": "Joshua Harms <joshua@nozzlegear.com>",
+  "description": "A Typescript/Typings definition for ES6 Map and WeakMap polyfills.",
+  "ambient": true,
+  "ambientDevDependencies": {
+    
+  }
+}
